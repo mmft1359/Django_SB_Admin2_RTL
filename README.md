@@ -1,2 +1,4 @@
 # Django_SB_Admin2_RTL
-SB Admin 2 RTL Template for Django
+The SB Admin 2 RTL Template for Django
+This template has been modified to make it easy to plug into Django projects in RTL languages like Farsi.
+
